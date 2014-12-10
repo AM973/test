@@ -1,0 +1,27 @@
+
+@import url(http://fonts.googleapis.com/css?family=Fjalla+One);
+
+
+body 
+{
+background: url(../image/kazani.jpg)  no-repeat center center fixed; 
+background-color: white
+ 
+   
+}
+
+.nav{
+    text-align:center
+}
+
+.border
+{
+border:2px solid #a1a1a1;
+padding:10px 40px; 
+background:red;
+margin-left:auto;
+margin-right:auto;
+width:300px;
+border-radius:25px;
+box-shadow: 10px 10px 5px #888888;
+}
